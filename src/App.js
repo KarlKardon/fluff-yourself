@@ -1,5 +1,6 @@
 import './App.css';
 import TwoButtons from './TwoButtons';
+import React, { useEffect } from 'react';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         GO FLUFF YOURSELF!!!
       </header>
+      <hr />
       <TwoButtons></TwoButtons>
     </div>
   );
