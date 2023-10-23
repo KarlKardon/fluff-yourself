@@ -45,3 +45,7 @@ hr {
     transform: rotate(360deg);
   }
 }
+
+hr {
+  margin-bottom: 5vh;
+}

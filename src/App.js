@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         GO FLUFF YOURSELF!!!
       </header>
-      <hr />
+      <hr/>
       <TwoButtons></TwoButtons>
     </div>
   );

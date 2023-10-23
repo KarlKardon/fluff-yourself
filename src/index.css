@@ -28,11 +28,13 @@
 .navbar a:hover {
   color: #f1356d;
 }
+/*
 .content {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
 }
+*/
 
 button {
   height: 50vh;
@@ -45,7 +47,7 @@ button {
 
 
 p {
-  height: 20vh;
+  height: 5vh;
   margin: 8px;
   color: white;
   font-weight: bold;
@@ -53,7 +55,7 @@ p {
 }
 
 #rainbow-text {
-  height: 20vh;
+  height: 5vh;
   margin: 8px;
   color: white;
   font-weight: bold;
